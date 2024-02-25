@@ -1,0 +1,14 @@
+// Importar customized variables
+@import 'custom-variables.scss';
+
+// Import customized styles
+@import 'custom-styles.scss';
+
+// Import customiuzed components
+@import 'custom-components.scss';
+
+// Import customized utils
+@import 'custom-utilities.scss';
+
+// Import Bootstrap
+@import 'bootstrap/dist/css/bootstrap.min.css';
